@@ -1,3 +1,6 @@
+#### 💚 Tistory : 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=NayoonBaek♣&theme=vue)](https://forestar.tistory.com/)
+
 <div align = center>
 
 ### Hi there 👋
